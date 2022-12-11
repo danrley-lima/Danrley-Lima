@@ -10,6 +10,6 @@
 <a href="https://github.com/Danrley-Lima/snaze-game">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danrley-lima&repo=snaze-game&theme=nightowl&hide_border=true" />
 </a>
-<a href="https://github.com/Danrley-Lima/jogo-da-forca">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danrley-lima&repo=jogo-da-forca&theme=nightowl&hide_border=true" />
+<a href="https://github.com/Danrley-Lima/Trabalho-Final-LP2-EDB2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danrley-lima&repo=trabalho-final-lp2-edb2&theme=nightowl&hide_border=true" />
 </a>
