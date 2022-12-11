@@ -1,6 +1,6 @@
 ### Olá, eu me chamo Danrley 👋
 
-- 🌱 Estou aprendendo JS, TS, React, Node
+- 🌱 Estou aprendendo PHP e Flutter
 - 🎓 Estou cursando Tecnologia da Informação na UFRN
 
 
