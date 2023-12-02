@@ -1,6 +1,6 @@
 ### Olá, eu me chamo Danrley 👋
 
-- 🌱 Estou aprendendo Flutter, Go e Clean Architecture.
+- 🌱 Estou aprendendo Flutter.
 - 🎓 Estou cursando Tecnologia da Informação na UFRN.
 - 💼 Procuro oportunidades para estágio na área de desenvolvimento de software.
 
