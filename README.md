@@ -1,4 +1,4 @@
-### Olá, eu sou Danrley 👋
+## Olá, eu sou Danrley 👋
 
 - 💻 Desenvolvedor full stack, com experiência em Flutter, Java Spring e PostgreSQL.
 - 🌱 Atualmente estou aprendendo mais sobre Flutter e arquitetura de sistemas.
@@ -7,7 +7,7 @@
 - 🔍 Estou em busca de oportunidades de estágio ou colaboração em desenvolvimento de software.
 <br/>
 
-Conecte-se comigo:
+<h3>Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/danrley-lima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danrley-lima" height="30" width="40" /></a>
 </p>
