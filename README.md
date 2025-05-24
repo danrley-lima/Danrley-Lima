@@ -1,10 +1,10 @@
 ## Olá, eu sou Danrley 👋
+**Desenvolvedor Full Stack | React • Flutter • Node.js • Spring Boot • Docker**
 
-- 💻 Desenvolvedor full stack, trabalhando com Node.js, Java, Spring Boot, Flutter, React, AWS.
-- 🚀 Sempre aprendendo algo novo, principalmente sobre arquitetura de sistemas e boas práticas no desenvolvimento de software.
-- 🎓 Formado em Tecnologia da Informação e cursando Engenharia de Software na UFRN.
-- 💼 Atualmente atuo no Metrópole Digital - IMD/UFRN, desenvolvendo soluções para monitoramento e gestão de terminais de pagamento.
-- 🔍 Aberto a trocar ideias sobre desenvolvimento, tecnologia e projetos interessantes!
+💻 Trabalho com desenvolvimento de soluções web e mobile, sempre focando em arquitetura escalável e boas práticas de código.  
+🎓 Bacharel em Tecnologia da Informação e cursando Engenharia de Software na UFRN.  
+🚀 Apaixonado por aprender e compartilhar conhecimento sobre sistemas distribuídos, CI/CD e DevOps.  
+🔍 Aberto a colaborações e conversas sobre projetos inovadores!
 <br/>
 
 <h3>Conecte-se comigo:</h3>
