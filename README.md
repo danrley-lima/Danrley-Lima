@@ -15,8 +15,9 @@ Atualmente, atuo no desenvolvimento de aplicações web e mobile, focando em ent
 
 ### 💻 Stack Tecnológica
 
-**Backend & Banco de Dados:**
-<div style="display: inline_block"><br>
+**Backend & Banco de Dados**
+<br>
+<div style="display: inline_block">
   <img align="center" alt="Node.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="NestJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" />
   <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -27,8 +28,11 @@ Atualmente, atuo no desenvolvimento de aplicações web e mobile, focando em ent
   <img align="center" alt="Prisma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" />
 </div>
 
-**Frontend & Mobile:**
-<div style="display: inline_block"><br>
+<br><br>
+
+**Frontend & Mobile**
+<br>
+<div style="display: inline_block">
   <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="AngularJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="Flutter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
@@ -36,8 +40,11 @@ Atualmente, atuo no desenvolvimento de aplicações web e mobile, focando em ent
   <img align="center" alt="Tailwind" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
 </div>
 
-**Ferramentas & Infraestrutura:**
-<div style="display: inline_block"><br>
+<br><br>
+
+**Ferramentas & Infraestrutura**
+<br>
+<div style="display: inline_block">
   <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="AWS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
